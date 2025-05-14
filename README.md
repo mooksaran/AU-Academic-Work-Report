@@ -54,9 +54,6 @@ AU-Academic-Work-Report/
 ├── docs/
 │   ├── Proposal_SP2_AUAcademicWorkReport.pdf
 │   ├── SP2_REPORT_AU_ACADEMIC_WORK_REPORT.pdf
-│   ├── AU_Academic_Work_Report_Abstract.pdf
-│   └── Screenshots/
-│       └── Screen_Shot_UI.png
 ├── forms/
 │   ├── AW1-AcademicWorkReportForm.pdf
 │   └── AW2-AcademicWorkReportForm.pdf
