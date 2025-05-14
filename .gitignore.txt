@@ -1,0 +1,32 @@
+# macOS system files
+.DS_Store
+
+# IDE/Editor configs
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Logs
+*.log
+
+# PHP and Apache config files
+*.env
+.env.local
+.env.*.local
+
+# DB credentials and sensitive configs
+src/backend/db_config.php
+
+# Node or Composer (if later added)
+node_modules/
+vendor/
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+*.~*
